@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hola, soy Mariana 👋
 
+-🔭 Actualmente trabajando en: Portafolio de Análisis de Datos (TripleTen).
+
+-🌱 Aprendiendo: Machine Learning con Python y visualización avanzada.
+
+-💬 Pregúntame sobre: SQL, Pandas y control de calidad.
+
+Herramientas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 <!--
 **marac8205-commits/marac8205-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
