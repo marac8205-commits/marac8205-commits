@@ -1,3 +1,5 @@
+<img width="1576" height="552" alt="Image" src="https://github.com/user-attachments/assets/2874c906-c161-42b1-b8f3-c6ac7be3c10a" />
+
 ## Hola, soy Mariana 👋
 
 🚀 Sobre mí: De la Ingeniería Industrial al Análisis de Datos
